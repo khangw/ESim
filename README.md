@@ -3,5 +3,5 @@ Simple circuit simulation software using Spice#
 # Demo
 
 
-https://github.com/khangw/ESim/assets/108381438/4defa830-338f-45ef-abc8-a90d80d69fb5
+https://github.com/khangw/ESim/assets/108381438/0145ee69-ba8e-44eb-8c24-18dc5f4a5c65
 
